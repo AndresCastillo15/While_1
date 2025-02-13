@@ -7,12 +7,12 @@ N = Numero escogido a sumar
 
 ## Proccesing
 
-- S= 0
+- S = 0
 - I = 1
 ------------
 mientras que I <= N
-- S + I
-- I+1
+- S= S + I
+- I= I + 1
 
 si I es igual o mayor a N se detiene y da el resultado
 
